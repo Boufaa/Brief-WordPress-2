@@ -28,6 +28,6 @@ Password: Boufaah1996
 ````
 enter the flowing information:
 ````
-UserName: fatimak@gmail.com
-Password: fatima123
+UserName: boufaah@gmail.com
+Password: Boufaah1996
 ````
