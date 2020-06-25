@@ -6,6 +6,7 @@ list of installed plugins
 - Weglot Translate
 - Rank Math SEO
 - GDRP Cookie Notice
+
 Installing
 steps to run this project
 
