@@ -19,8 +19,13 @@ after that
 ````
 open http://localhost/wordpress/wp-admin
 ````
-enter the flowing information:
+enter the admin information:
 ````
 UserName: boufaah@gmail.com
 Password: Boufaah1996
+````
+enter the flowing information:
+````
+UserName: fatimak@gmail.com
+Password: fatima123
 ````
