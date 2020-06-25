@@ -11,8 +11,7 @@ list of installed plugins
 Installing
 steps to run this project
 ````
-run the file "wordpress.sql" exist in the folder in phpmyadmin 
-And
+run the file "wordpress.sql" exist in the folder in phpmyadmin
 ````
 ````
 Copy the main project folder and Paste in xampp/htdocs
