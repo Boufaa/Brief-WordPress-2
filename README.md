@@ -25,7 +25,7 @@ enter the admin information:
 UserName: boufaah@gmail.com
 Password: Boufaah1996
 ````
-enter the flowing information:
+use following information to purchase products:
 ````
 UserName: boufaah@gmail.com
 Password: Boufaah1996
